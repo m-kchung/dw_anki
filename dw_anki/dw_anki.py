@@ -10,7 +10,7 @@ import subprocess #to call lame/convert to resize media
 import operator
 
 # Top page for Nicos Weg A1
-TOP_URL= 'https://learngerman.dw.com/en/deutschtrainer/c-56705009'
+TOP_URL= 'https://learngerman.dw.com/en/1-introducing-yourself/l-57107614/lv'
 
 DW_URL = 'https://learngerman.dw.com/'
 DECK_NAME = 'A1'
