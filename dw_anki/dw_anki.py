@@ -10,10 +10,10 @@ import subprocess #to call lame/convert to resize media
 import operator
 
 # Top page for Nicos Weg A1
-TOP_URL= 'https://learngerman.dw.com/en/beginners/c-36519789'
+TOP_URL= 'https://learngerman.dw.com/en/deutschtrainer/c-56705009'
 
 DW_URL = 'https://learngerman.dw.com/'
-DECK_NAME = 'DW Nicos Weg A1'
+DECK_NAME = 'A1'
 IMAGES_DIR = 'images'
 AUDIO_DIR = 'audio'
 log = logging.getLogger(__name__)
